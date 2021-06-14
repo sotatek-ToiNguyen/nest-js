@@ -1,0 +1,17 @@
+export const LABEL_NAME = {
+  'general-information': 'General Information',
+  'legal-information': 'Legal Information',
+  'nature-of-business': 'Nature of Business',
+  'regulatory-information': 'Regulatory Information',
+  'csr-deontology-information': 'CSR / Deontology Information',
+  'social-information': 'Social Information',
+  'environmental-information': 'Environmental Information',
+  'financial-information': 'Financial Information',
+  'aml-cft-information': 'AML / CFT Information',
+  'gdpr-information': 'GDPR Information',
+  'contracts-rfp-information': 'Contracts & RFP Information',
+  'contacts': 'Contacts',
+  'directors': 'Directors',
+  'beneficial-owners': 'Benificial Owners',
+  'product-service': 'Product & Service',
+};

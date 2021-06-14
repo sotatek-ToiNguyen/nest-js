@@ -1,0 +1,11 @@
+<p>Hello {{ supplier_name }},</p>
+<p>You recieved a request from {{ member_name }} to fill in and/or review the following datasets in Citrus:</p>
+<div>
+  <ul>
+    {{#each dataset}}
+      <li> {{this.message}} </li>
+    {{/each}}
+  </ul>
+</div>
+<p>Kind regards,</p>
+<p>Citrus Support team</p>
